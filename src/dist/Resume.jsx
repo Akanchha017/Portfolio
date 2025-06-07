@@ -216,7 +216,7 @@ function Resume() {
                     <br />
                     <span className=" font-roboto font-light lg:text-base test-sm lg:py-14 lg:px-6  italic">
                       {" "}
-                      Higher Secondary Education ( 12th Grade )
+                      Higher Secondary Education ( 12th Grad )
                     </span>
                     <br />
                     <span className=" font-roboto font-extralight text-xs lg:py-14 lg:px-6  italic">
