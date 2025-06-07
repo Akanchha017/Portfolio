@@ -9,7 +9,7 @@ function Header({ toggleDarkMode }) {
         <Link to="/">
           <div className="font-serif dark:text-white font-semibold lg:text-xl text-lg mt-[10px] lg:mt-[-55px] cursor-pointer ">
             {" "}
-            <span className="lg:text-orange-500 lg:text-8xl text-white dark:text-slate-950  ">.</span> Tarun Tiwari
+            <span className="lg:text-orange-500 lg:text-8xl text-white dark:text-slate-950  ">.</span> Akanchha Jadon
           </div>
         </Link>
         

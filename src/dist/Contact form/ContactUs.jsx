@@ -10,8 +10,8 @@ export const ContactUs = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_7zgr6pp', 'template_ps7v6hu', form.current, {
-        publicKey: 'N1v-d9PQmHHUUq5u9',
+      .sendForm('service_efu8w4j', 'template_0z4lm9v', form.current, {
+        publicKey: '_Tsmwaxj8CJuodYqu',
       })
       .then(
         () => {

@@ -33,7 +33,7 @@ function Home() {
         backgroundColor: "#111"
       }}
     >
-      <p style={{ fontWeight: 900, fontSize: "2rem", color: "#ffffff" }}>How you doin?</p>
+      <p style={{ fontWeight: 900, fontSize: "2rem", color: "#ffffff" }}>This is Akansha!</p>
     </div>
   }
   gridSize={12}

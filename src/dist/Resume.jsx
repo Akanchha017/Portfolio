@@ -20,7 +20,7 @@ function Resume() {
                 <div className="flex-col">
                   <span className=" font-roboto font-semibold lg:text-xl text-base lg:py-5 lg:px-6 ">
                     {" "}
-                    <a href="https://drive.google.com/drive/folders/144jPHPJ1xhW5iwafgEDttupZPm6qGsS4?usp=drive_link" className="hover:underline">
+                    <a href="#" className="hover:underline">
                     Frontend Developer Intern | To Let Globe 
                     </a>
                     <br />
@@ -256,54 +256,9 @@ function Resume() {
       </label>
       <hr className="border-gray-600 lg:m-16 lg:flex hidden " />
 
-      <label htmlFor="Achievments"></label>
-      <div className="flex lg:justify-around lg:flex-row flex-col  ">
-        <div className="flex font-semibold text-xl  lg:text-3xl mt-2  lg:mt-6 py-1 ml-6  lg:-ml-10 font-roboto dark:text-gray-200 text-gray-900">
-          Achievments
-        </div>
 
-        <div className="flex-col lg:bg-slate-50 dark:bg-slate-900 dark:text-gray-300 bg-slate-100 rounded-lg px-5 py-2 lg:w-auto w-[320px] mx-5 lg:mr-5 my-3 mb-12 lg:shadow-none shadow-lg ">
-          <div className=" font-roboto font-light lg:text-base text-sm py-2  italic ">
-            {" "}
-            <p className="lg:flex hidden ml-32">
-              ✦ &nbsp; Achieved 90 Perecentage in CBSE Class 12 Board Exam{" "}
-              <br /> &nbsp; &nbsp; &nbsp; and secured 2nd rank at Kendriya
-              Vidyalaya No. 4.{" "}
-            </p>
-            <p className=" lg:hidden flex-wrap text-justify leading-relaxed">
-              {" "}
-              ✦ Achieved 90 Perecentage in CBSE Class 12 Board Exam and secured
-              2nd rank at Kendriya Vidyalaya No. 4.{" "}
-            </p>
-          </div>
-
-          <div className=" font-roboto font-light lg:text-base text-sm py-2  italic ">
-            {" "}
-            <p className="lg:flex hidden ml-32">
-              ✦ &nbsp; Achieved 88 Perecentage in CBSE Class 10 Board Exam{" "}
-              <br /> &nbsp; &nbsp; &nbsp; and secured 3nd rank at Kendriya
-              Vidyalaya No. 4.{" "}
-            </p>
-            <p className=" lg:hidden flex-wrap text-justify leading-relaxed">
-              {" "}
-              ✦ Achieved 88 Perecentage in CBSE Class 10 Board Exam and secured
-              3nd rank at Kendriya Vidyalaya No. 4.{" "}
-            </p>
-          </div>
-          <div className=" font-roboto font-light lg:text-base text-sm py-2  italic ">
-            {" "}
-            <p className="lg:flex hidden ml-32">
-              ✦ &nbsp; Got commendable 99.34 Percentile in CUET(UG) 2022
-            </p>
-            <p className=" lg:hidden flex-wrap text-justify leading-relaxed">
-              {" "}
-              ✦ Got commendable 99.34 Percentile in CUET(UG) 2022{" "}
-            </p>
-          </div>
-        </div>
-      </div>
       <div className="flex items-center justify-center p-4 ">
-        <a href='/Resume.pdf' download="Tarun_Tiwari_Resume.pdf" className="bg-blue-700 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition">
+        <a href='/Resume.pdf' download="Akanchha_jadon_Resume.pdf" className="bg-blue-700 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition">
            Download Full Resume
         </a>
       </div>

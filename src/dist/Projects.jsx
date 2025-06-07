@@ -25,45 +25,6 @@ function Projects() {
           deployLink='/'
         />
       </div> 
-      <div className="flex items-center justify-center pb-5 mb-7">
-        <Card
-          title="DappFundX"
-          pic={crowd}
-          link="/"
-          content={`A decentralized crowdfunding platform on ethereum  showcasing my blockchain skills. Users can create and support campaigns using ETH and USDT. Built with Solidity, IPFS, React.js, and Ethers.js, it ensures transparency, seamless interactions, and secure fund management with features like one-click withdrawals and contributor refunds.
-<br /><br /><em>Note:</em> <i> This application is currently deployed on the Sepolia testnet. Please do not donate real ETH or USDT, as you may lose your funds. </i>`}
-
-          deployLink='https://crowd-funding-client-topaz.vercel.app/'
-        />
-      </div>
-      <div className="flex items-center justify-center pb-5 mb-7">
-        <Card
-          title="Decentralized Voting DApp"
-          pic={vote}
-          link="https://github.com/taruntiwari08/ElectionDapp"
-          content="A secure and transparent blockchain-based election voting application currently on the Sepolia Ethereum network (Testnet). This DApp ensures tamper-proof elections by leveraging smart contracts written in Solidity. It allows voters to cast their votes anonymously while maintaining a transparent and immutable voting record. Developed using React, Ether.js, Truffle, and Ganache, the platform provides a seamless user experience with real-time updates and blockchain integration."
-          deployLink='https://election-dapp-snowy.vercel.app/'
-        />
-      </div> 
-      <div className="flex items-center justify-center pb-5 mb-7">
-        <Card
-          title="Blog Web Application"
-          pic={blog}
-          link="https://github.com/taruntiwari08/Megablog/tree/main"
-          content="Built using React.js and Appwrite, my new blog platform offers seamless user authentication, intuitive post management with image support, and a rich text editing experience powered by TinyMCE. Features include easy post deletion and robust profile management. Leveraging Redux Toolkit, React Router DOM, React Hook Form, and Appwrite for backend services, this project showcases my expertise in modern web development and user-centric design."
-          deployLink='https://megablog-pied.vercel.app/'
-        />
-      </div>
-     
-      <div className="flex items-center justify-center pb-5 mb-7">
-        <Card
-          title="DropBox Dapp"
-          pic={dropbox}
-          link="https://github.com/taruntiwari08/DropBox-Client"
-          content="A decentralized file storage and retrieval application that allows users to securely upload, store, and retrieve files using blockchain technology and IPFS. This project ensures data immutability, security, and a seamless user experience through a clean and responsive interface."
-          deployLink='https://drop-box-client-c7kq.vercel.app/'
-        />
-      </div>
 
       <div className="flex items-center justify-center pb-5 mb-7">
         <Card

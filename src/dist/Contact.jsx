@@ -9,7 +9,7 @@ function Contact() {
          <div className='lg:text-5xl text-2xl font-bold font-roboto lg:mt-6  mx-[20px]'>Contact</div>
          <div className='text-sm font-roboto font-extralight mb-[10px]  lg:my-4 mx-6 '>Looking forward to hearing from you</div>
          <div className='lg:text-2xl text-lg font-semibold font-roboto mt-2 lg:mt-8 mx-6 '> Email </div>
-         <div className='text-sm font-roboto font-extralight  mb-[10px] lg:my-4 mx-6 '>tiwaritarun700@gmail.com </div>
+         <div className='text-sm font-roboto font-extralight  mb-[10px] lg:my-4 mx-6 '>akanshajadon51@gmail.com </div>
 
          <div className="flex-row ">
         <div className=" lg:text-2xl text-lg  ml-[23px] font-semibold font-roboto mt-2 lg:mt-7 ">
